@@ -1,6 +1,6 @@
 {
   "name": "hyperterm-focus-reporting",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Adding focus gain & lost reporting to hyperterm",
   "main": "index.js",
   "scripts": {
