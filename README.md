@@ -1,10 +1,10 @@
 # hyperterm-focus-reporting
 
-This tiny hyperterm plugin to add focus-gained and focus-lost reporting to hyperterm to enable focus reporting to vim for autosave on blur.
+This tiny hyperterm plugin to add focus-gained and focus-lost reporting to hyperterm.  This enables focus gained and focus lost in vim for autosave on blur.
 
 ## why?
 
-This is mostly to support my own workflow which is terminal -> tmux -> vim.  I use [vitality](https://github.com/sjl/vitality.vim) with vim to handle most of this work and work "out of the box" with iterm2.  I want the same functionality with hyperterm because iterm2 doesn't work on linux and hyperterm is nifty!
+This is mostly to support my own workflow which is terminal -> tmux -> vim.  I use [vitality](https://github.com/sjl/vitality.vim) with vim to handle most of this work.  Vitality works "out of the box" with iterm2.  I want the same functionality with hyperterm because iterm2 doesn't work on linux and hyperterm is nifty!
 
 ## install
 
